@@ -1,0 +1,20 @@
+
+{
+  "items": [
+      {
+          "id": 0,
+          "url": "https://www.pexels.com/photo/tomato-lot-1327838/",
+          "item": "tomato",
+          "category": "vegetable",
+          "description": "Tomat kvist röd ca 120g"
+      },
+      {
+          "id": 1,
+          "url": "https://images.pexels.com/photos/206959/pexels-photo-206959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "item": "apple",
+          "category": "fruit",
+          "description": "Äpple Royal Gala ca 150g"
+
+      }
+  ]
+}
